@@ -62,3 +62,47 @@ conda create -n loggpt python=3.10
 conda activate loggpt
 
 pip install -r requirements.txt
+
+
+## 🚀 Usage
+
+### 🔹 Training
+
+Run the following command to train LogGPT:
+
+```bash
+python train.py
+```
+
+---
+
+### 🔹 Evaluation
+
+Evaluate the trained model:
+
+```bash
+python test.py
+```
+
+---
+
+### 🔹 Optional Arguments
+
+You can customize training and evaluation with additional arguments:
+
+```bash
+python train.py --batch_size 32 --lr 1e-4 --epochs 100
+```
+
+```bash
+python test.py --checkpoint path/to/model.pth
+```
+
+---
+
+### 🔹 Notes
+
+* Make sure the dataset is correctly placed in the `data/` directory
+* Modify configuration parameters in `config.py` if needed
+* GPU is recommended for training
+
