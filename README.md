@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/network_v2.png" width="80%">
+<img src="assets/network_v2.png" width="90%">
 </p>
 
 <div align="center">
@@ -55,34 +55,6 @@ To address these challenges, we propose **LogGPT**, a chunk-based autoregressive
 
 ---
 
-## 🧠 Method Overview
-
-<p align="center">
-<img src="assets/framework.png" width="80%">
-</p>
-
-LogGPT is built upon a GPT-2 architecture:
-
-1. Continuous well logs → chunk partitioning  
-2. Chunk-level autoregressive pretraining  
-3. Fine-tuning for lithology classification  
-
----
-
-## 📊 Results
-
-<p align="center">
-<img src="assets/results.png" width="80%">
-</p>
-
-Experiments on the Yuanba dataset show that LogGPT:
-
-- Outperforms BiLSTM, ResNet, Transformer  
-- Achieves higher **Recall** and **F1-score**  
-- Provides more stable performance  
-
----
-
 ## ⚙️ Installation
 
 ```bash
@@ -90,7 +62,7 @@ conda create -n loggpt python=3.10
 conda activate loggpt
 
 pip install -r requirements.txt
-
+---
 
 ## 🚀 Usage
 Training
