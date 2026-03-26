@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/network_v2.pdf" width="80%">
+<img src="assets/network_v2.png" width="80%">
 </p>
 
 <div align="center">
