@@ -8,12 +8,17 @@
     for Lithology Identification From Well Logs
     </strong>
     </br>
-    <a href='https://github.com/yourname' target='_blank'>Chuanli Dai<sup>1</sup></a>&emsp;
-    <a href='#'>Xinming Wu, Xiaoming Sun, Qing Yu<sup>1</sup></a>&emsp;
+    <a href='https://github.com/yourname' target='_blank'>Chuanli Dai,<sup>1,2,3</sup></a>&emsp;
+    <a href='#'>Xinming Wu,<sup>1</sup></a>&emsp;
+    <a href='#'>Xiaoming Sun,<sup>1</sup></a>&emsp;
+    <a href='#'>Qing Yu,<sup>2</sup></a>&emsp;    
 </div>
 
 <div align="center">
-    <sup>1</sup> Your Institution &emsp;
+    <sup>1</sup> State Key Laboratory of Precision Geodesy, School of Earth and Space Sciences, University of Science and Technology of China, Hefei 230026, China. &emsp;
+    <sup>2</sup> Mengcheng National Geophysical Observatory, University of Science and Technology of China, Mengcheng, 233500, China. &emsp;
+    <sup>3</sup> Anhui Provincial Key Laboratory of Subsurface Exploration and Earthquake Hazard Risk Prevention, Hefei, 230031, China. &emsp;
+    <sup>4</sup> Institute of Advanced Technology, University of Science and Technology of China, Hefei, China 230026;
 </div>
 
 ---
