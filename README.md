@@ -51,11 +51,11 @@ To address these challenges, we propose **LogGPT**, a chunk-based autoregressive
 
 ## ⚙️ Installation
 
-```bash
-conda create -n loggpt python=3.10
-conda activate loggpt
+### 🔹 Create environment from the provided file (recommended)
 
-pip install -r requirements.txt
+```bash
+conda env create -f environment.yml
+conda activate geom2.0
 ```
 
 ---
