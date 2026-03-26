@@ -27,10 +27,10 @@
 
 Lithology identification is a fundamental task in hydrocarbon exploration and reservoir characterization. However, it remains challenging due to:
 
-- Complex nonlinear responses  
+- complex nonlinear relationships between well logs and lithology
 - Limited labeled data with class imbalance  
 - Point-wise modeling limitations  
-- Widespread missing data  
+- Widespread missing well logs  
 
 To address these challenges, we propose **LogGPT**, a chunk-based autoregressive self-supervised framework for lithology identification.
 
