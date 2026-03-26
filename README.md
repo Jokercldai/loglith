@@ -18,7 +18,7 @@
     <sup>1</sup> State Key Laboratory of Precision Geodesy, School of Earth and Space Sciences, University of Science and Technology of China, Hefei 230026, China. &emsp;
     <sup>2</sup> Mengcheng National Geophysical Observatory, University of Science and Technology of China, Mengcheng, 233500, China. &emsp;
     <sup>3</sup> Anhui Provincial Key Laboratory of Subsurface Exploration and Earthquake Hazard Risk Prevention, Hefei, 230031, China. &emsp;
-    <sup>4</sup> Institute of Advanced Technology, University of Science and Technology of China, Hefei, China 230026;
+    <sup>4</sup> Institute of Advanced Technology, University of Science and Technology of China, Hefei, China 230026.
 </div>
 
 ---
