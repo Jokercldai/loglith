@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="assets/network_v2.png" width="90%">
+<img src="assets/network_v2.png" width="100%">
 </p>
 
 <div align="center">
@@ -62,10 +62,3 @@ conda create -n loggpt python=3.10
 conda activate loggpt
 
 pip install -r requirements.txt
----
-
-## 🚀 Usage
-Training
-python train.py
-Evaluation
-python test.py
