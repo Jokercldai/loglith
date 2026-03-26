@@ -38,14 +38,8 @@ To address these challenges, we propose **LogGPT**, a chunk-based autoregressive
 
 ## 🔥 Key Ideas
 
-- **Chunk-based modeling**  
-  Instead of point-wise prediction, logs are partitioned into chunks to capture stratigraphic context.
-
-- **Autoregressive pretraining (GPT-style)**  
-  Enables learning deeper geological patterns rather than local interpolation.
-
-- **Self-supervised learning**  
-  Leverages large-scale unlabeled well logs.
+- **Chunk-based autoregressive self-supervised framework**  
+  LogGPT transforms lithology identification into a chunk-level autoregressive learning task, where continuous well logs are partitioned into discrete chunks and modeled using GPT-style self-supervised pretraining, enabling the capture of long-range stratigraphic dependencies and deeper latent geological structures beyond point-wise modeling.
 
 - **Missing-aware masking**  
   Handles incomplete logs naturally.
@@ -74,16 +68,6 @@ Run the following command to train LogGPT:
 
 ```bash
 python train.py
-```
-
----
-
-### 🔹 Evaluation
-
-Evaluate the trained model:
-
-```bash
-python test.py
 ```
 
 ---
