@@ -62,7 +62,9 @@ conda create -n loggpt python=3.10
 conda activate loggpt
 
 pip install -r requirements.txt
+```
 
+---
 
 ## 🚀 Usage
 
@@ -105,4 +107,3 @@ python test.py --checkpoint path/to/model.pth
 * Make sure the dataset is correctly placed in the `data/` directory
 * Modify configuration parameters in `config.py` if needed
 * GPU is recommended for training
-
