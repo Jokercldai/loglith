@@ -8,8 +8,8 @@
     for Lithology Identification From Well Logs
     </strong>
     </br>
-    <a href='https://github.com/yourname' target='_blank'>Your Name<sup>1</sup></a>&emsp;
-    <a href='#'>Co-author<sup>1</sup></a>&emsp;
+    <a href='https://github.com/yourname' target='_blank'>Chuanli Dai<sup>1</sup></a>&emsp;
+    <a href='#'>Xinming Wu, Xiaoming Sun, Qing Yu<sup>1</sup></a>&emsp;
 </div>
 
 <div align="center">
