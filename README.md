@@ -9,9 +9,9 @@
     </strong>
     </br>
     <a href='https://github.com/yourname' target='_blank'>Chuanli Dai,<sup>1,2,3</sup></a>&emsp;
-    <a href='#'>Xinming Wu,<sup>1</sup></a>&emsp;
-    <a href='#'>Xiaoming Sun,<sup>1</sup></a>&emsp;
-    <a href='#'>Qing Yu,<sup>2</sup></a>&emsp;    
+    <a href='#'>Xinming Wu,<sup>1,2,3</sup></a>&emsp;
+    <a href='#'>Xiaoming Sun,<sup>1,2,3</sup></a>&emsp;
+    <a href='#'>Qing Yu,<sup>4</sup></a>&emsp;    
 </div>
 
 <div align="center">
